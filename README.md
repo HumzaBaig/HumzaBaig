@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/HumzaBaig"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Humza Baig's Dev Card"/></a>
+<a href="https://app.daily.dev/HumzaBaig"><img src="https://github.com/humzabaig/humzabaig/blob/master/devcard.svg" width="400" alt="Humza Baig's Dev Card"/></a>
 
 <!--
 **HumzaBaig/HumzaBaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
