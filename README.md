@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Humza Baig
 ==================================================================================================================================
 
-<a href="https://app.daily.dev/HumzaBaig"><img src="https://github.com/humzabaig/humzabaig/blob/master/devcard.svg" width="400" alt="Humza Baig's Dev Card"/></a>
-
 Full-Stack Web Developer w/ a focus on the Frontend
 ---------------------------------------------------
 
@@ -42,6 +40,8 @@ Hi there! I'm a full-stack web developer with over 7 years of experience in the 
   <a href="https://www.github.com/humzabaig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/humza-baig/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+<!-- <a href="https://app.daily.dev/HumzaBaig"><img src="https://github.com/humzabaig/humzabaig/blob/master/devcard.svg" width="400" alt="Humza Baig's Dev Card"/></a> -->
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/humzabaig"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
