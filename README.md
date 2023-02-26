@@ -12,7 +12,11 @@ Hi there! I'm a full-stack web developer with over 7 years of experience in the 
 *   🚀  I'm currently working on [OYD dashboard (nonprofit organization internal app)](http://oyd-inspo-generator-eradlo31g-humzabaig.vercel.app/)
 *   🧠  I'm learning React w/ Redux & WebSockets
 *   🤝  I'm open to collaborating on Anything GPT-related, using the T3 stack, or education-related projects
-*   ⚡  My favorite superhero is the Batman.### Skills 
+*   ⚡  My favorite superhero is the Batman.
+
+
+### Skills 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,9 +36,9 @@ Hi there! I'm a full-stack web developer with over 7 years of experience in the 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-                    
-### Socials
 
+
+### Socials
 
 <p align="left">
   <a href="https://www.github.com/humzabaig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
@@ -44,4 +48,5 @@ Hi there! I'm a full-stack web developer with over 7 years of experience in the 
 <!-- <a href="https://app.daily.dev/HumzaBaig"><img src="https://github.com/humzabaig/humzabaig/blob/master/devcard.svg" width="400" alt="Humza Baig's Dev Card"/></a> -->
 
 ### Support Me
+
 <a href="https://www.buymeacoffee.com/humzabaig"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
