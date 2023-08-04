@@ -7,7 +7,7 @@ Full-Stack Web Developer
 Hi there! I'm a full-stack web developer with over 7 years of experience in the industry. I specialize in frontend development, with expertise in JavaScript, HTML5/CSS3, SCSS, React, Node, Express.js, Ruby on Rails, Tailwind, Typescript, and Next.js. My passion lies in building intuitive and responsive interfaces that deliver a seamless user experience. When I'm not coding, you can find me playing basketball, watching anime, volunteering for nonprofit youth activities, solving math problems, or tutoring students in various subjects. I believe in giving back to the community and enjoy being involved in activities that promote education and personal growth. Check out my portfolio to see some of my best projects and feel free to reach out if you have any questions or would like to collaborate on a project.
 
 *   🌍  I'm based in Houston, TX
-*   🖥️  See my portfolio at [My Portfolio](http://www.hbaig.com) *Under Construction*
+*   🖥️  See my portfolio at [My Portfolio](http://www.hbaig.com) *(Under Construction)*
 *   ✉️  You can contact me at [humza.baig2009@gmail.com](mailto:humza.baig2009@gmail.com)
 *   🚀  I'm currently working on [Faahim (AI Platform)](https://faahim-puce.vercel.app/)
 *   🧠  I'm practicing with Next.js and Typescript
